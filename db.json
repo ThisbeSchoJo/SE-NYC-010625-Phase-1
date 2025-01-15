@@ -1,4 +1,21 @@
 {
+    "drinks": [ 
+        {
+            "id": 1,
+            "name": "Coca Cola",
+            "isDelicious": true
+        }
+    ],
+    "sports": [
+        {
+            "id": 1,
+            "name": "Tennis"
+        },
+        {
+            "id": 2,
+            "name": "Soccer"
+        }
+    ],
     "foods": [
         {
             "id": 1,
